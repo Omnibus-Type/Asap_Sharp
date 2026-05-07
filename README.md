@@ -95,22 +95,10 @@ This information should be distributed along with the Asap fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-## Building
-
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
-
-If you particularly want to build fonts manually on your own computer, you will need to install the [`yq` utility](https://github.com/mikefarah/yq). On OS X with Homebrew, type `brew install yq`; on Linux, try `snap install yq`; if all else fails, try the instructions on the linked page.
-
-Then:
-
-* `make build` will produce font files.
-* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
-* `make proof` will generate HTML proof files.
-
 ======
-## FONTLOG for the Asap fonts
+## FONTLOG for the Asap Sharp fonts
 
-This file provides detailed information on the Asap font software.  
+This file provides detailed information on the Asap Sharp font software.  
 This information should be distributed along with the Asap fonts and any derivative works.
 
 **7 May 2026 (v.1.001) Omnibus-Type** 
