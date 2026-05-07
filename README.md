@@ -78,21 +78,6 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 This file provides detailed information on the Asap font software.  
 This information should be distributed along with the Asap fonts and any derivative works.
 
-### Asap is a typeface family that supports the following Unicode language range: 
-
-* Basic Latin 			U+0020-U+007E
-* Latin-1 Supplement 		U+00A0-U+00FF
-* Latin Extended-A 		U+0100-U+017F
-* Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
-
-**Character map to support MS Codepages:**
-* 1252 Latin-1
-* 1250 Latin-2 (Eastern Europe)
-* 1254 Turkish
-* 1257 Windows Baltic
-* 1258 Vietnamese
-* Mac Roman
-
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 ======
