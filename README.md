@@ -62,7 +62,7 @@ Asap Sharp is de sharp version of Asap, a contemporary sans-serif family with su
 
 To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
-### Designers
+### Designer
 
 * Pablo Cosgaya
 
