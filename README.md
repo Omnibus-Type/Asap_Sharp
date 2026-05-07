@@ -117,7 +117,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **N:** **Oscar Guerrero**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Designer of Asap Sharp
+**D:** Typeface development
 
 **N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
