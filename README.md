@@ -1,9 +1,9 @@
-# Asap Sharp family
+# Asap Sharp family (WIP)
 
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Asap Sharp is de sharp version of Asap, a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") was specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Héctor Gatti), and has been developed with the collaboration of Oscar Guerrero, Marcela Romero and Eduardo Tunni.
+Asap Sharp is the sharp version of Asap, a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") was specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Héctor Gatti), and has been developed with the collaboration of Oscar Guerrero, Marcela Romero and Eduardo Tunni.
 
 ![Sample of Asap Sharp Family.](./Asap_Sharp-1.png "Asap Sharp")
 
