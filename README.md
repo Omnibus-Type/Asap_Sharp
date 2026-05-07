@@ -73,14 +73,6 @@ Copyright 2026 Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
 ======
-## FONTLOG for the Asap fonts
-
-This file provides detailed information on the Asap font software.  
-This information should be distributed along with the Asap fonts and any derivative works.
-
-*To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
-
-======
 ## FONTLOG for the Asap Sharp fonts
 
 This file provides detailed information on the Asap Sharp font software.  
