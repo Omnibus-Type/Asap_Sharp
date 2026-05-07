@@ -1,0 +1,137 @@
+# Asap Sharp family
+
+**Omnibus-Type**  
+*SIL Open Font License, 1.1*
+
+Asap is a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") was specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Héctor Gatti), and has been developed with the collaboration of Eduardo Tunni, Andrés Torresi, Nicolás Silva and Yorlmar Campos.
+
+![Sample of Asap Sharp Family.](./Asap_Sharp-1 "Asap Sharp")
+
+####Asap Sharp family contains:
+
+* Condensed Thin/Condensed Thin Italic
+* Condensed ExtraLight/Condensed Extralight Italic
+* Condensed Light/Condensed Light Italic
+* Condensed Regular/Condensed Italic
+* Condensed Medium/Condensed Medium Italic
+* Condensed SemiBold/Condensed SemiBold Italic
+* Condensed Bold/Condensed Bold Italic
+* Condensed ExtraBold/Condensed ExtraBold Italic
+* Condensed Black/Condensed Black Italic
+
+* SemiCondensed Thin/SemiCondensed Thin Italic
+* SemiCondensed ExtraLight/SemiCondensed Extralight Italic
+* SemiCondensed Light/SemiCondensed Light Italic
+* SemiCondensed Regular/SemiCondensed Italic
+* SemiCondensed Medium/SemiCondensed Medium Italic
+* SemiCondensed SemiBold/SemiCondensed SemiBold Italic
+* SemiCondensed Bold/SemiCondensed Bold Italic
+* SemiCondensed ExtraBold/SemiCondensed ExtraBold Italic
+* SemiCondensed Black/SemiCondensed Black Italic
+
+* Thin/Thin Italic
+* ExtraLight/Extralight Italic
+* Light/Light Italic
+* Regular/Italic
+* Medium/Medium Italic
+* SemiBold/SemiBold Italic
+* Bold/Bold Italic
+* ExtraBold/ExtraBold Italic
+* Black/Black Italic
+
+* SemiExpanded Thin/SemiExpanded Thin Italic
+* SemiExpanded ExtraLight/SemiExpanded Extralight Italic
+* SemiExpanded Light/SemiExpanded Light Italic
+* SemiExpanded Regular/SemiExpanded Italic
+* SemiExpanded Medium/SemiExpanded Medium Italic
+* SemiExpanded SemiBold/SemiExpanded SemiBold Italic
+* SemiExpanded Bold/SemiExpanded Bold Italic
+* SemiExpanded ExtraBold/SemiExpanded ExtraBold Italic
+* SemiExpanded Black/SemiExpanded Black Italic
+
+* Expanded Thin/Expanded Thin Italic
+* Expanded ExtraLight/Expanded Extralight Italic
+* Expanded Light/Expanded Light Italic
+* Expanded Regular/Expanded Italic
+* Expanded Medium/Expanded Medium Italic
+* Expanded SemiBold/Expanded SemiBold Italic
+* Expanded Bold/Expanded Bold Italic
+* Expanded ExtraBold/Expanded ExtraBold Italic
+* Expanded Black/Expanded Black Italic
+
+
+To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
+
+### Designers
+
+* Pablo Cosgaya
+
+### License
+
+Copyright 2021 Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
+
+Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
+
+======
+## FONTLOG for the Asap fonts
+
+This file provides detailed information on the Asap font software.  
+This information should be distributed along with the Asap fonts and any derivative works.
+
+### Asap is a typeface family that supports the following Unicode language range: 
+
+* Basic Latin 			U+0020-U+007E
+* Latin-1 Supplement 		U+00A0-U+00FF
+* Latin Extended-A 		U+0100-U+017F
+* Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
+
+**Character map to support MS Codepages:**
+* 1252 Latin-1
+* 1250 Latin-2 (Eastern Europe)
+* 1254 Turkish
+* 1257 Windows Baltic
+* 1258 Vietnamese
+* Mac Roman
+
+*To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+## Building
+
+Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
+
+If you particularly want to build fonts manually on your own computer, you will need to install the [`yq` utility](https://github.com/mikefarah/yq). On OS X with Homebrew, type `brew install yq`; on Linux, try `snap install yq`; if all else fails, try the instructions on the linked page.
+
+Then:
+
+* `make build` will produce font files.
+* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
+* `make proof` will generate HTML proof files.
+
+======
+## FONTLOG for the Asap fonts
+
+This file provides detailed information on the Asap font software.  
+This information should be distributed along with the Asap fonts and any derivative works.
+
+**7 May 2026 (v.1.001) Omnibus-Type** 
+- Initial release
+
+### Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+**N:** **Pablo Cosgaya**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer of Asap Sharp
+
+**N:** **Oscar Guerrero**  
+**E:** omnibus.type@gmail.com 
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development 
+
+**N:** **Héctor Gatti**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer of Ancha upstream
