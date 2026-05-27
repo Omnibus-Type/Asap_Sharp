@@ -78,7 +78,7 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 This file provides detailed information on the Asap Sharp font software.  
 This information should be distributed along with the Asap fonts and any derivative works.
 
-**7 May 2026 (v.1.001) Omnibus-Type** 
+**20 May 2026 (v.1.001) Omnibus-Type** 
 - Initial release
 
 ### Acknowledgements
