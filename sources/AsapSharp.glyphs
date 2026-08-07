@@ -324859,7 +324859,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)";
+value = "Copyright 2026 The Asap Sharp Project Authors (https://github.com/Omnibus-Type/Asap_Sharp)";
 }
 );
 },
